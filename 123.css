@@ -53,8 +53,7 @@ nav {
 }
 @media screen and (max-width: 400px) {
   .list li a{
-    padding: 4%;
-    margin-left: 2%;
+    /* padding: 4%; */
     display: inline-block;
     font-size: 5px;
  
